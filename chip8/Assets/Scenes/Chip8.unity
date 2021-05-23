@@ -401,10 +401,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1180303782}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2a8f96328e7ba4cb78bcc992fd822be8, type: 3}
+  m_Script: {fileID: 11500000, guid: f3d343efe926a4c08925ad9c79b602e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  path: Assets/Roms/IBM.ch8
+  path: Assets/Roms/IBM Logo.ch8
 --- !u!1 &1569635997
 GameObject:
   m_ObjectHideFlags: 0
